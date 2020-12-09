@@ -1,6 +1,5 @@
 # dnsspoof
-Simple Python script to dnsspoof on local network
-
+Simple Python script to dnsspoof 
 
 #installation
 
